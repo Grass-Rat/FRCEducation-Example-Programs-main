@@ -1,0 +1,11 @@
+gitinit: Initialize a new Git repository
+
+git clone <repository_url>: Clone an existing Git repository
+
+git add <file>: Add a file to the staging area
+
+git commit -m "commit message": Commit changes to the repository
+
+git push: Push changes to the remote repository
+
+git pull: Pull changes from the remote repository

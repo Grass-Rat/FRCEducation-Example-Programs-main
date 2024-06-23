@@ -1,0 +1,17 @@
+Ctrl + P: Quick open
+
+Ctrl + Shift + F: Search across files
+
+Ctrl + : Toggle terminal
+
+Ctrl + B: Toggle sidebar visibility
+
+Ctrl + S: Save file
+
+Ctrl + D: Select next occurrence of the current word
+
+Ctrl + Shift + K: Delete current line
+
+Ctrl + Shift + L: Select all occurrences of the current word
+
+Ctrl + Space: Trigger autocomplete
